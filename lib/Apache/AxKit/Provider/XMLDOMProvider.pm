@@ -35,7 +35,7 @@ our @EXPORT = qw(
     new init process exists mtime get_fh get_strref key get_styles get_ext_ent_handler
 );
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 # sub: init
 # here we do some initialization stuff.

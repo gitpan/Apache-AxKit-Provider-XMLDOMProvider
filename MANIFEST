@@ -4,3 +4,4 @@ MANIFEST
 README
 t/Apache-AxKit-Provider-XMLDOMProvider.t
 lib/Apache/AxKit/Provider/XMLDOMProvider.pm
+META.yml                                 Module meta-data (added by MakeMaker)
